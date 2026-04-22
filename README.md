@@ -16,8 +16,7 @@ Girisha Dham Group is a real estate web application designed to showcase propert
 ---
 
 ## 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript  
-- Backend: ASP.NET  
+- Frontend: HTML, CSS, JavaScript   
 - IDE: Visual Studio  
 
 ---
